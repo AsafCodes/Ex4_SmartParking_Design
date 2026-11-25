@@ -44,6 +44,7 @@ if (Illegal Parking Spotted?) then ([yes])
     stop
   endif
 else ([no])
+  |Security Guard (Actor)|
   stop
 endif
 @enduml
