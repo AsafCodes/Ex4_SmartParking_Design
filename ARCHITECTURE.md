@@ -10,16 +10,16 @@
 
 | Role | Full Name | Student ID | Braude Academic Email |
 | :--- | :--- | :--- | :--- |
-| **Student A (Role A)** | `[Enter Student A Full Name]` | `[Enter ID]` | `[studentA@e.braude.ac.il]` |
-| **Student B (Role B)** | `[Enter Student B Full Name]` | `[Enter ID]` | `[studentB@e.braude.ac.il]` |
+| **Student A (Roles A + B)** | Asaf Shochat | 11111111 | asaf.shohat@e.braude.ac.il |
 
-* **Group Number:** `G[XX]`
-* **GitHub Repository URL:** `https://github.com/[Username]/Ex4_SmartParking_Design`
+* **Group Number:** `G06`
+* **GitHub Repository URL:** https://github.com/AsafCodes/Ex4_SmartParking_Design
 
-### Driver-Navigator Work Split
-* **Student A (Role A):** Project setup; drove the ECB Class Diagram (PlantUML draft, audit, Visual Paradigm import and layout).
-* **Student B (Role B):** Drove both ECB Sequence Diagrams (`<<create>>`, `alt`/`loop`, destroy `X`), imported them into Visual Paradigm, and ran the iterative consistency check against the Class Diagram.
-* **Joint:** Activity Diagram (4 partitions), Part 4 design critique, `ARCHITECTURE.md`, and the GitHub push.
+### Work Split (individual submission)
+This exercise was completed individually, so one student performed both Driver-Navigator roles:
+* **Role A tasks:** Project setup; ECB Class Diagram (PlantUML draft, audit, Visual Paradigm import and layout).
+* **Role B tasks:** Both ECB Sequence Diagrams (`<<create>>`, `alt`/`loop`, destroy `X`), Visual Paradigm import, and the iterative consistency check against the Class Diagram.
+* **Joint tasks:** Activity Diagram (4 partitions), Part 4 design critique, `ARCHITECTURE.md`, and the GitHub push.
 
 ---
 
